@@ -45,10 +45,10 @@
 
 <!-- Adobe Photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   </a>
 
 <!-- Adobe Premiere Pro -->
   <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_premiere/adobe_premiere-icon.svg" alt="premiere-pro" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere-pro" width="40" height="40"/>
   </a>

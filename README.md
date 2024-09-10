@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
 <h3 align="center">A passionate AI & Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk/)
+- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk)
 
 - 🌱 I’m currently learning **Different Programming Languages**
 
 - 👯 I’m looking to collaborate on **Development Projects**
 
-- 📝 I regularly write articles on [Github](Github)
+- 📝 I regularly read articles on programming
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 

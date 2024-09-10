@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Shah</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate AI & Data Science Student from India</h3>
 
 - 🔭 I’m currently working on [Portfolio](https://ayushshahnsk.github.io/)
 

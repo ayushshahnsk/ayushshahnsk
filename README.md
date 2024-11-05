@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate AI & Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk)
+- 🔭 I’m currently working on [Portfolio]([https://github.com/ayushshahnsk](https://github.com/ayushshahnsk?tab=repositories))
 
 - 🌱 I’m currently learning **Different Programming Languages**
 
@@ -10,11 +10,15 @@
 
 - 📝 I regularly read articles on **Programming Languages**
 
-- 💬 Ask me about **HTML, CSS, JavaScript & Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++ & Python**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
+
+  <!-- Linkedln -->
+  <a href="https://www.linkedin.com/in/ayushshahnsk" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="html5" width="40" height="40"/>
+  </a>
   
 </p>
 

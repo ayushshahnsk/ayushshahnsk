@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate AI & Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Portfolio]([https://github.com/ayushshahnsk](https://github.com/ayushshahnsk?tab=repositories))
+- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk?tab=repositories)
 
 - 🌱 I’m currently learning **Different Programming Languages**
 

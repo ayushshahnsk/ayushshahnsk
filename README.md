@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/7de668917015f60c4182789f5c605530b7d0cee719d01af10c1390a95817da7b/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031392f31302f616e696d617465642d70726573656e746174696f6e2d736f6674776172652d6865616465722e676966)]()
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">Hi 👋, I'm Ayush Shah </h1>
 <h3 align="center">A passionate AI & Data Science Student from India</h3>

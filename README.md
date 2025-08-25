@@ -1,68 +1,126 @@
-<h1 align="center">Hi 👋, I'm Ayush Shah</h1>
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
+<h1 align="center">Hi 👋, I'm Ayush Shah </h1>
 <h3 align="center">A passionate AI & Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk?tab=repositories)
-
-- 🌱 I’m currently learning **Different Programming Languages**
-
-- 👯 I’m looking to collaborate on **Development Projects**
-
-- 📝 I regularly read articles on **Programming Languages**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, C++ & Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-  <!-- Linkedln -->
-  <a href="https://www.linkedin.com/in/ayushshahnsk" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20DS-Exploring-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love%20to%20Contribute-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Learner%20for%20Life-Keep%20Growing-brightgreen?style=for-the-badge&logo=readthedocs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<!-- Icons for various languages and tools -->
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Profile%20views-2.7k-brightgreen?style=for-the-badge&logo=github" alt="ayushshahnsk" /> 
+</p>
+
+- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk?tab=repositories)
+  
+- 🌱 I’m currently learning **Advanced Programming Languages**
+  
+- 👯 I’m looking to collaborate on **Development Projects**
+  
+- 📝 I love writing & reading about **Tech & Programming**
+  
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, C++ & Python**
+  
+- ⚡ Fun fact: **I enjoy Trading & Designing in my free time!**
+  
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ayushshahnsk)
+
+---
+
+## Connect with Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayushshahnsk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" height="45"/>
+  </a>
+</p>
+
+---
+
+## Languages & Tools:
+
 <p align="left">
 
-  <!-- HTML5 -->
+  <!-- HTML -->
   <a href="https://www.w3.org/html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" height="50" alt="html"/>
   </a>
 
-<!-- CSS3 -->
+  <!-- CSS -->
   <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" height="50" alt="css"/>
   </a>
 
-<!-- JavaScript -->
+  <!-- JavaScript -->
   <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="javascript"/>
+  </a>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="50" alt="mysql"/>
   </a>
 
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/13841574?v=4" alt="python" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="cplusplus"/>
   </a>
 
-<!-- Python -->
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="python"/>
   </a>
 
-<!-- Adobe Photoshop -->
+  <!-- Photoshop -->
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=photoshop&theme=dark" height="50" alt="photoshop"/>
   </a>
 
-<!-- Adobe Premiere Pro -->
+  <!-- Adobe XD -->
+  <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=xd&theme=dark" height="50" alt="adobe-xd"/>
+  </a>
+
+  <!-- Premiere Pro -->
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere-pro" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=pr&theme=dark" height="50" alt="premiere-pro"/>
   </a>
 
-<!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vs-code" width="40" height="40"/>
+  <!-- CorelDRAW -->
+  <a href="https://www.coreldraw.com/" target="_blank" rel="noreferrer">
+    <img src="https://brandlogos.net/wp-content/uploads/2025/03/coreldraw-logo_brandlogos.net_96dfz-512x512.png" height="50" alt="coreldraw"/>
   </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="vs-code"/>
+  </a>
+
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="50" alt="arduino"/>
+  </a>
+
+</p>
+
+</p>
+
+---
+
+## GitHub Stats:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshahnsk&show_icons=true&locale=en&layout=compact" alt="ayushshahnsk" />
+</p>
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshahnsk&show_icons=true&locale=en" alt="ayushshahnsk" /></p>
+-->
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshahnsk&" alt="ayushshahnsk" />
+</p>

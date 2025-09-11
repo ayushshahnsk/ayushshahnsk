@@ -1,33 +1,27 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
- 
-<h1 align="center">Hi 👋, I'm Ayush Shah </h1>
-<h3 align="center">A passionate AI & Data Science Student from India</h3>
+[![MarioBanner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)]()
+
+<h1 align="center">Hi 👋, I’m Ayush “It’s-a-Me!” Shah</h1>
+<h3 align="center">A passionate AI & Data Science Student from the Mushroom Kingdom</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20DS-Exploring-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love%20to%20Contribute-red?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Learner%20for%20Life-Keep%20Growing-brightgreen?style=for-the-badge&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/Power-Up-Skills-AI%20%26%20DS-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Contributions-Star-Collector-OSS-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Keep-Growing-Like-Level-Up-Green?style=for-the-badge&logo=readthedocs" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Mario Jumping" width="400" src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif"/>
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20views-2.8k-brightgreen?style=for-the-badge&logo=github" alt="ayushshahnsk" /> 
+  <img src="https://img.shields.io/badge/Views-Collected-Coins-2.8k-yellow?style=for-the-badge&logo=github" alt="ayushshahnsk" /> 
 </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk?tab=repositories)
-  
-- 🌱 I’m currently learning **Advanced Programming Languages**
-  
-- 👯 I’m looking to collaborate on **Development Projects**
-  
-- 📝 I love writing & reading about **Tech & Programming**
-  
-- 💬 Ask me about **HTML, CSS, JavaScript, SQL, C++ & Python**
-  
-- ⚡ Fun fact: **I enjoy Trading & Designing in my free time!**
-  
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ayushshahnsk)
+- 🔭 I’m currently building my **Portfolio Castle** (linking to [My Repositories](https://github.com/ayushshahnsk?tab=repositories))  
+- 🌱 I’m currently learning **Advanced Programming Languages** + mastering new power-ups  
+- 👯 I want to collaborate on **Quest Projects** that test me  
+- 📝 I love writing & reading about **Tech, Code & Retro Games**  
+- 💬 Ask me about **HTML, CSS, JavaScript, SQL, C++ & Python** (I jump over bugs like Goombas!)  
+- ⚡ Fun fact: **I collect trading victories & design power-ups in free time**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayushshahnsk)
 
 ---
 
@@ -41,7 +35,7 @@
 
 ---
 
-## Languages & Tools:
+## Power-Ups (Languages & Tools):
 
 <p align="left">
 
@@ -107,19 +101,13 @@
 
 </p>
 
-</p>
-
 ---
 
-## GitHub Stats:
+## Stats & Coins Collected:
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshahnsk&show_icons=true&locale=en&layout=compact" alt="ayushshahnsk" />
 </p>
-
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshahnsk&show_icons=true&locale=en" alt="ayushshahnsk" /></p>
--->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshahnsk&" alt="ayushshahnsk" />

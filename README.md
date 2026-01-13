@@ -113,6 +113,20 @@
 
 ## GitHub Stats:
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshahnsk&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayushshahnsk&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushshahnsk&theme=github_dark)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushshahnsk&theme=github_dark)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushshahnsk&theme=github_dark&utcOffset=5.5)
+![Commit Per Day](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=ayushshahnsk&theme=github_dark)
+![Commit Per Language](https://github-profile-summary-cards.vercel.app/api/cards/commit-per-language?username=ayushshahnsk&theme=github_dark)
+
+![Code Changes](https://github-profile-summary-cards.vercel.app/api/cards/code-changes?username=ayushshahnsk&theme=github_dark)
+![Stars](https://github-profile-summary-cards.vercel.app/api/cards/stars?username=ayushshahnsk&theme=github_dark)
+![Issues](https://github-profile-summary-cards.vercel.app/api/cards/issues?username=ayushshahnsk&theme=github_dark)
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshahnsk&show_icons=true&locale=en&layout=compact" alt="ayushshahnsk" />
 </p>

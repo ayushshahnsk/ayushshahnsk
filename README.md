@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/Profile%20views-4.8k-brightgreen?style=for-the-badge&logo=github" alt="ayushshahnsk" /> 
+  <img src="https://img.shields.io/badge/Profile%20views-5.2k-brightgreen?style=for-the-badge&logo=github" alt="ayushshahnsk" /> 
 </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/ayushshahnsk?tab=repositories)
